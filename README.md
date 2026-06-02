@@ -2,6 +2,8 @@
 
 A Codex skill for switching VPN regions by intent.
 
+[中文使用说明](README.zh-CN.md)
+
 It maps common tasks like airfare checks, hotel-price comparison, shopping localization, and YouTube/streaming tests to suggested VPN regions, then calls a supported VPN CLI or a custom command template.
 
 ## What It Does
