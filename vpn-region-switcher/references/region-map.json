@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "intents": {
+    "flights": {
+      "country": "India",
+      "country_code": "IN",
+      "aliases": [
+        "airfare",
+        "airfares",
+        "flight",
+        "flights",
+        "flight-tickets",
+        "plane-tickets",
+        "tickets"
+      ],
+      "note": "Use for airfare localization and fare-display comparison."
+    },
+    "hotels": {
+      "country": "Vietnam",
+      "country_code": "VN",
+      "aliases": [
+        "hotel",
+        "hotels",
+        "lodging",
+        "stay",
+        "stays",
+        "rooms"
+      ],
+      "note": "Use for lodging and hotel-price localization checks."
+    },
+    "shopping": {
+      "country": "Brazil",
+      "country_code": "BR",
+      "aliases": [
+        "buy",
+        "cheap",
+        "cheaper",
+        "ecommerce",
+        "marketplace",
+        "retail",
+        "shopping",
+        "stuff"
+      ],
+      "note": "Use for broad retail, marketplace, and ecommerce localization checks."
+    },
+    "youtube": {
+      "country": "Albania",
+      "country_code": "AL",
+      "aliases": [
+        "ad-check",
+        "ad-test",
+        "ads",
+        "streaming",
+        "video",
+        "youtube"
+      ],
+      "note": "Use for streaming availability and ad-behavior checks; results are not guaranteed."
+    }
+  },
+  "countries": {
+    "AL": {
+      "country": "Albania",
+      "aliases": [
+        "al",
+        "albania"
+      ]
+    },
+    "BR": {
+      "country": "Brazil",
+      "aliases": [
+        "br",
+        "brazil"
+      ]
+    },
+    "IN": {
+      "country": "India",
+      "aliases": [
+        "in",
+        "india",
+        "bharat"
+      ]
+    },
+    "VN": {
+      "country": "Vietnam",
+      "aliases": [
+        "vn",
+        "viet-nam",
+        "vietnam"
+      ]
+    }
+  }
+}

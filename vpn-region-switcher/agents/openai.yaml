@@ -1,0 +1,6 @@
+interface:
+  display_name: "VPN Region Switcher"
+  short_description: "Switch VPN regions from task intent"
+  default_prompt: "Use $vpn-region-switcher to choose and switch a VPN region for comparing regional availability."
+policy:
+  allow_implicit_invocation: true
